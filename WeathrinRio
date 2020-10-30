@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/39d01n74d88/rio-grande/?unit=us" data-label_1="The temp" data-label_2="What's going on?" data-font="Tinos" data-theme="clear" data-accent="#fdf1f1" data-highcolor="#f49eaa" data-lowcolor="#90d0f4" data-suncolor="#fda6aa" >The temp What's going on?</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
